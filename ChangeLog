@@ -1,0 +1,11 @@
+2001-05-19  Andrew Belov  <andrew_belov@mtu-net.ru>
+
+	* sdfdump.c:
+	Fixed to handle anonymous structures and structure references better
+
+	* makefile, readme, sdfdump.c, sdfdump.def:
+	Created a Q&D preliminary version.
+
+	* makefile, readme, sdfdump.c, sdfdump.def: New file.
+
+
